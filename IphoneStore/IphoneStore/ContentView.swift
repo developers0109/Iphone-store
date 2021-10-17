@@ -45,6 +45,8 @@ struct ContentView: View {
         ProductModel(id: 7, namaproduk: "iPhone X ", fotoproduk: "iphone7", hargaproduk: 14999000, lokasi: "Jakarta", ratingcount: 4, jumlahrating: 56),
         ProductModel(id: 8, namaproduk: "iPhone 8", fotoproduk: "iphone8", hargaproduk: 8499000, lokasi: "Jakarta", ratingcount: 5, jumlahrating: 56),
         ProductModel(id: 9, namaproduk: "iPhone 7", fotoproduk: "iphone9", hargaproduk: 7999000, lokasi: "Jakarta", ratingcount: 4, jumlahrating: 56),
+        ProductModel(id: 10, namaproduk: "iPhone X", fotoproduk: "iphone9", hargaproduk: 7999000, lokasi: "Jakarta", ratingcount: 4, jumlahrating: 60),
+        ProductModel(id: 11, namaproduk: "iPhone XR", fotoproduk: "iphone9", hargaproduk: 7999000, lokasi: "Jakarta", ratingcount: 4, jumlahrating: 60),
         
     ]
     
